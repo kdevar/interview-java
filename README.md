@@ -4,7 +4,7 @@ In this exercise, please utilize the provided interfaces to construct a program 
 
 ## Steps
 Make the changes needed to:
-1. Read [data.csv](data.csv) from the resources directory
+1. Read [data.csv](data.csv) from the root directory
 2. Filter out the line items where the line_item_type is refund
 3. When duplicate line_item_ids are encountered, keep the line item that has the highest cost
 4. Write the filtered content to  new CSV file called data-filtered.csv
