@@ -17,7 +17,3 @@ There are three interfaces provided.  Please use them to construct your program.
 3. [Processor](./src/main/java/io/finops/interview/processors/Processor.java)
 
 Additionally, there is a utility to parse a CSV line.  [CSVHelper](./src/main/java/io/finops/interview/utils/CSVHelper.java)
-
-## Verify
-
-You can verify your work by running the junit tests
